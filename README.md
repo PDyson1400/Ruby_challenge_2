@@ -40,3 +40,4 @@ The Intermezzo on Object Instantiation [(section 6)](./bakery/intermezzo_instant
 Click an emoji to tell us.
 
 <!-- END GENERATED SECTION DO NOT EDIT -->
+# Ruby_challenge_2
